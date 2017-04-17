@@ -13,3 +13,21 @@ ll
 luna.txt
 luna1.txt
 parker
+total 20K
+drwxr-xr-x 1 M1010781 1049089   0 Apr 17 17:05 .
+drwxr-xr-x 1 M1010781 1049089   0 Apr  5 13:43 ..
+drwxr-xr-x 1 M1010781 1049089   0 Apr 17 17:09 .git
+-rw-r--r-- 1 M1010781 1049089  17 Apr  5 13:43 README.md
+-rw-r--r-- 1 M1010781 1049089  20 Apr 17 17:03 ab.txt
+-rw-r--r-- 1 M1010781 1049089  29 Apr  5 17:23 eight.txt
+-rw-r--r-- 1 M1010781 1049089  29 Apr  5 13:43 file1.txt
+-rw-r--r-- 1 M1010781 1049089  28 Apr  5 17:05 file2.txt
+-rw-r--r-- 1 M1010781 1049089   0 Apr  5 13:43 file3.txt
+-rw-r--r-- 1 M1010781 1049089   0 Apr  5 13:43 file4.txt
+-rw-r--r-- 1 M1010781 1049089  37 Apr  5 14:14 file6.txt
+-rw-r--r-- 1 M1010781 1049089  39 Apr  5 14:03 file7.txt
+-rw-r--r-- 1 M1010781 1049089  55 Apr  5 13:50 file9.txt
+-rw-r--r-- 1 M1010781 1049089  29 Apr 17 17:03 ll
+-rw-r--r-- 1 M1010781 1049089  29 Apr  5 17:41 luna.txt
+-rw-r--r-- 1 M1010781 1049089  29 Apr  5 17:52 luna1.txt
+-rw-r--r-- 1 M1010781 1049089 155 Apr 17 17:07 parker
